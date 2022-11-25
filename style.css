@@ -1,0 +1,28 @@
+.single-contact-info .social-link li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.single-contact-info .social-link li:last-child {
+  margin-right: 0;
+}
+.single-contact-info .social-link li a i {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #f1f1f1;
+  color: #292d32;
+  transition: all ease 0.5s;
+  display: inline-block;
+  text-align: center;
+}
+.single-contact-info .social-link li a:hover i {
+  color: #ffffff;
+  background-color: #292d32;
+}
+.single-contact-info h3 {
+  font-size: 16px;
+  margin-bottom: 25px;
+}
+.single-contact-info.follow-us {
+  margin-top: 40px;
+}
